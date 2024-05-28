@@ -1,8 +1,8 @@
-name = "Abdula"
+name = "Name: Abdulla"
 print(name)
-age = 37
+age = "Age: 37"
 print(age)
-new_age = 38
-print(new_age)
-is_student = "True"
+age_new = "New Age: 38"
+print(age_new)
+is_student = "Is Student: True"
 print(is_student)
